@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi There!
 
-<!--
-**LeonardoLazilha/LeonardoLazilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Leonardo Lazilha
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-lazilha) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lazilhaleonardo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leolazi_) <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 IT support technician <br>🎓 Analysis and Systems Development<br>📚 Studying: Java, Spring Boot, React, Typescript, Node<br>🌐 Passionate about web development<br><br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolazilha&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br><br>
+
+
+[![](https://visitcount.itsvg.in/api?id=leonardolazilha&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
