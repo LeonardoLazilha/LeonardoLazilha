@@ -10,7 +10,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolazilha&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br><br>
 
-
-[![](https://visitcount.itsvg.in/api?id=leonardolazilha&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
