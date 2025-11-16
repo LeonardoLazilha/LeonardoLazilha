@@ -16,6 +16,7 @@ Currently focused on **Java**, **AngularJS**, **SQL Server** and **React Native*
 **Frontend:** AngularJS, React Native, ReactJS  
 **Database:** PostgreSQL, SQL Server, MongoDB  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolazilha&theme=react&hide_border=true&layout=compact)
 
 
 ## < Contact />
